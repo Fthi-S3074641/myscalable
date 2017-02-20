@@ -1,0 +1,8 @@
+tweepy
+nltk
+tweet-preprocessor
+preprocessor
+scipy
+numpy
+sklearn
+statistics
